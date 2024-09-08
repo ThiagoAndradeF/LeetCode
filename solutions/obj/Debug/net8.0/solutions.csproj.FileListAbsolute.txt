@@ -1,0 +1,14 @@
+/home/thiago/Desktop/Colege/LeetCode/solutions/bin/Debug/net8.0/solutions
+/home/thiago/Desktop/Colege/LeetCode/solutions/bin/Debug/net8.0/solutions.deps.json
+/home/thiago/Desktop/Colege/LeetCode/solutions/bin/Debug/net8.0/solutions.runtimeconfig.json
+/home/thiago/Desktop/Colege/LeetCode/solutions/bin/Debug/net8.0/solutions.dll
+/home/thiago/Desktop/Colege/LeetCode/solutions/bin/Debug/net8.0/solutions.pdb
+/home/thiago/Desktop/Colege/LeetCode/solutions/obj/Debug/net8.0/solutions.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiago/Desktop/Colege/LeetCode/solutions/obj/Debug/net8.0/solutions.AssemblyInfoInputs.cache
+/home/thiago/Desktop/Colege/LeetCode/solutions/obj/Debug/net8.0/solutions.AssemblyInfo.cs
+/home/thiago/Desktop/Colege/LeetCode/solutions/obj/Debug/net8.0/solutions.csproj.CoreCompileInputs.cache
+/home/thiago/Desktop/Colege/LeetCode/solutions/obj/Debug/net8.0/solutions.dll
+/home/thiago/Desktop/Colege/LeetCode/solutions/obj/Debug/net8.0/refint/solutions.dll
+/home/thiago/Desktop/Colege/LeetCode/solutions/obj/Debug/net8.0/solutions.pdb
+/home/thiago/Desktop/Colege/LeetCode/solutions/obj/Debug/net8.0/solutions.genruntimeconfig.cache
+/home/thiago/Desktop/Colege/LeetCode/solutions/obj/Debug/net8.0/ref/solutions.dll
